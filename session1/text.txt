@@ -1,0 +1,110 @@
+**Variable - key and value storage** 
+
+## Bash:
+
+- automation of processes/tasks
+- write script
+- give logic
+- write a psuedocode
+
+## Python is interpretted
+
+Bash -----> Interpretation/Compilation ------> 010101110101
+
+Interpretation -----> Bash ------> Linux
+
+Interpretation :
+-interpret source code every time you run programs
+
+Python is high-level, interpreted progtamming language., most of the time its used for automation.
+
+## Bash:
+
+- automation of processes/tasks
+- write script
+- give logic
+- write a psuedocode
+
+## String
+
+## Python is interpretted
+
+Bash -----> Interpretation/Compilation ------> 010101110101
+
+Interpretation -----> Bash ------> Linux
+
+Interpretation :
+
+-interpret source code every time you run programs
+
+Python is high-level, interpreted progtamming language., most of the time its used for automation.
+
+##  Data Types(Numerical Data Types):
+
+-Integer
+
+-Float
+
+-Octal
+
+-Hexidecimal
+
+-Binaty
+
+## Mathematical Operators;
+
+- "+"
+
+- "-"
+
+- "*"
+
+- "//"
+
+- "%"
+
+"/" - Regular Division -----> Return Float
+
+"//" - Integer division -----> Return Integer
+
+"%" - Modulus Operator (Remaider of the division) (for exam 12 /5 ----> 10/5 ---> 12-10=2)
+
+"*" - Power Operator ( 2 ^ 3 == 2 * 2 * 2 ||| 4 * 2 = 8)
+
+Concatenation definition  ( put text tough)
+
+String Indexing and String Slicing:
+
+-You have to use [] to give an index
+
+-Indexes are started with 0 always
+
+String Slicing:
+
+- You have to use " : "
+
+- " : " - Between
+
+input function:
+
+() - its function
+
+input()
+
+print()
+
+len() - gives the length of the string
+
+print ("Hello"), print (len("Hello World))
+
+input() - always return a string
+
+Cnverters :
+
+-int()
+
+-float()
+
+-str()
+
+-bool()
