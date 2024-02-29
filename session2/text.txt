@@ -1,0 +1,67 @@
+& - Logical AND 
+| - Logical OR 
+~ - Logical NOT 
+^ - Logical XOR
+##### << - orginal value multiplied 
+##### >> - original value divided
+
+
+<< if conditions >>
+in bashwe used ( =, -eq, -le, -le, -lg, <=, >=)
+    if conditions:
+        - if condition meets then work 
+        - logic 
+        - in bash we used ( =, -eq, -le, -le, -lg, <=, >=)
+
+
+if conditions:
+    < ---- less than
+    > ----- greater then
+    <= ----- less than or qeual
+    <== ---- greater then or qual 
+    == ------ equals 
+    != ------- not equals
+    && ------- both conditions are tru -- AND 
+    || ------- one of the conditions are true -- OR 
+
+
+
+    #####for loops are to loop :
+        -repeat the task until some end 
+
+
+
+
+    #####while loops are to loop :
+        -repeat the task until some condition is met:
+
+
+    #while conditions return false;
+        code ...
+
+    
+    #for variable_name is sequence ( use #range#): (in linux looks like for num in {1..10})
+    in Python (for num in range (15): )
+        code ...
+
+
+    For number we alway use #range#.
+    For words is sequence
+ 
+_________________________
+Learn :
+#break, pass, continue
+for else 
+for while
+_________________________
+
+need do in git 
+jan24-Python
+    -homework
+        -session1
+            -task1
+            -task2
+        -session2
+            -task1
+            -task2
+            
