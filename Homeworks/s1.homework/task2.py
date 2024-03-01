@@ -8,3 +8,6 @@
 #print (s)
 #print ("The reversed string  is :" '')
 #print (reverse(s))
+
+inp1 = "hello world" [: :-1] 
+print (inp1)
