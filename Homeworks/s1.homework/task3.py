@@ -4,15 +4,31 @@
     #Print out the resulting string stored in the result variable.
 
 
-##Program
-str1=str(input("Please enter a four-character string for the variable chars: "))
-str2=str(input("Please enter a word to insert into the middle of chars: "))
-middle = int(len(str1)/2)
-gm =str1[:middle:]
-get =gm + str2
-middle = get + str1[middle:]
-print ("This is your word combination:", middle) 
-("str1","str2")
+###############Program
+#str1=str(input("Please enter a four-character string for the variable chars: "))
+#str2=str(input("Please enter a word to insert into the middle of chars: "))
+#middle = int(len(str1)/2)
+#gm =str1[:middle:]
+#get =gm + str2
+#middle = get + str1[middle:]
+#print ("This is your word combination:", middle) 
+#("str1","str2")
+
+########REMADE HOMEWORK
+
+inp1 = input("Enter your characters:")
+inp2 = input("Enter your word:")
+
+result = inp1[0:2] + inp2 + inp1[2:4]
+print(result)
+
+
+
+
+
+
+
+
 
 
 #str1 = "<<>>"
