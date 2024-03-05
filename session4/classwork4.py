@@ -148,11 +148,14 @@
 #print(lst)
 ##print all fruits with letter "a"
 
+#---------------------------------------------------------------------
 # 1 : 1
 # 2 : 4
 # 3 : 9
 # 4 : 16
 
 
-d = {i : i ** 2 for i in range(1, 5)}
-print(d)
+#d = {i : i ** 2 for i in range(1, 5)}
+#print(d)
+
+#Repeat again everithing

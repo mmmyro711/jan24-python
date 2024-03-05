@@ -1,0 +1,69 @@
+0o - Octal  (0-7)
+0x - Hexidecimal (0-9) and (a-f)
+0b - Binary
+
+
+loop:
+-repeatedly do the task
+
+
+#iterator - dynamicly changed variable 
+
+
+## Tupels
+## List (read and write)
+
+
+List of values :
+-any data 
+-append()
+-del
+-remove
+-insert
+-sort()
+-copy
+-revers
+
+
+# Tupels is immuted 
+    #tupels are defined with (value, ) and value,
+
+#Tupels abd List === key - val1,val2(multipule values)
+
+#Dictionary == key value pair also  defined whith {}.
+    #dictionary does not have index
+
+
+#sets - only holds unique value
+    #sort values
+    #{} -->val1, val2, val3 (multipule value) only value 
+    #mutable
+ 
+ -----------------------------------------------------------
+
+ Colections Data Types:
+    #List --> [] --> can hold multipule values -->mutable --> support indexing
+    #Tuples --> (val,) or val, ---> can hold multipule values --> immutable -->support indexing
+    #Dictionaries {key: value} --> can hold multipule data type --> mutable --> support key
+    #Sets --> {}  ---> can hold multiple data types ---> values are unique and sorted ---> does not support indexing
+
+--------------------------------------------------------------
+
+
+Data Types:
+    #Strings 
+    #Integers (num, binary, octal, Hexidecimal)
+    #Float
+    #Boolean
+
+--------------------------------------------------------------
+
+
+
+# print(lst)
+# lst = [num for num in range(20)]   #######[value | for loop]
+# print(lst)
+
+
+#list,dict, set ---> mutable data type
+#tuple ----> immutable data type
