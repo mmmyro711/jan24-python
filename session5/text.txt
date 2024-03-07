@@ -1,0 +1,38 @@
+def <function name> - Functions in Python are defined using the def
+ keyword followed by the name of the function and a set of parentheses.
+
+def checkEven():
+    code ...
+
+
+for #def function never use #(print) need use #return. 
+We used #def for reuse the code!
+
+ def:
+ -created with def keyword
+ -uses parameters
+ -reuse the code
+ -should have a return keyword
+
+
+    Return  keyword:
+
+Always we use #return --> inside to data type
+
+
+
+
+#return(used just inside in functions)
+#print(used just outside in functions)
+
+
+
+-----------------------------------------------------------------------
+
+function will take 2 parameters ["banana"],[apple"],["cherry"] "a"
+
+# Return ---> ["banana", "apple"]
+
+def checker(lst, char):
+
+print(checker(["banana"],[apple"],["cherry"] "a"))
